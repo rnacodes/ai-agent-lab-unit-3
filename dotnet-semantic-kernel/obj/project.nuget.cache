@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kekn+0dcVQg=",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\CodeYouAIClass2026Unit3\\ai-agent-lab\\dotnet-semantic-kernel\\dotnet-semantic-kernel.csproj",
+  "expectedPackageFiles": [
+    "D:\\NuGetPackages\\azure.ai.openai\\1.0.0-beta.12\\azure.ai.openai.1.0.0-beta.12.nupkg.sha512",
+    "D:\\NuGetPackages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
+    "D:\\NuGetPackages\\humanizer.core\\2.11.10\\humanizer.core.2.11.10.nupkg.sha512",
+    "D:\\NuGetPackages\\jetbrains.annotations\\2021.2.0\\jetbrains.annotations.2021.2.0.nupkg.sha512",
+    "D:\\NuGetPackages\\json.more.net\\1.9.0\\json.more.net.1.9.0.nupkg.sha512",
+    "D:\\NuGetPackages\\jsonpointer.net\\3.0.3\\jsonpointer.net.3.0.3.nupkg.sha512",
+    "D:\\NuGetPackages\\jsonschema.net\\5.4.2\\jsonschema.net.5.4.2.nupkg.sha512",
+    "D:\\NuGetPackages\\jsonschema.net.generation\\3.5.1\\jsonschema.net.generation.3.5.1.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.configuration.fileextensions\\8.0.0\\microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.configuration.json\\8.0.0\\microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.configuration.usersecrets\\8.0.0\\microsoft.extensions.configuration.usersecrets.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.semantickernel\\1.0.1\\microsoft.semantickernel.1.0.1.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.semantickernel.abstractions\\1.0.1\\microsoft.semantickernel.abstractions.1.0.1.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.semantickernel.connectors.openai\\1.0.1\\microsoft.semantickernel.connectors.openai.1.0.1.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.semantickernel.core\\1.0.1\\microsoft.semantickernel.core.1.0.1.nupkg.sha512",
+    "D:\\NuGetPackages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "D:\\NuGetPackages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "D:\\NuGetPackages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "dotnet-semantic-kernel depends on Microsoft.SemanticKernel (>= 1.0.0) but Microsoft.SemanticKernel 1.0.0 was not found. Microsoft.SemanticKernel 1.0.1 was resolved instead.",
+      "libraryId": "Microsoft.SemanticKernel",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
